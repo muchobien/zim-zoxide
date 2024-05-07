@@ -1,4 +1,4 @@
 *.zwc
 *.zwc.old
-fnm.zsh
-fnm-init.zsh
+zoxide.zsh
+zoxide-init.zsh
